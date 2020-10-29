@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookShareApp", "BookShareApp\BookShareApp.csproj", "{35637487-41F6-4F9E-B1C0-C24E098E3741}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookShareApp", "..\..\..\..\source\repos\DatabaseProject\BookShareApp.csproj", "{DBADC96B-7507-42D4-9AAE-A11AEE503FA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{35637487-41F6-4F9E-B1C0-C24E098E3741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{35637487-41F6-4F9E-B1C0-C24E098E3741}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{35637487-41F6-4F9E-B1C0-C24E098E3741}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{35637487-41F6-4F9E-B1C0-C24E098E3741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBADC96B-7507-42D4-9AAE-A11AEE503FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBADC96B-7507-42D4-9AAE-A11AEE503FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBADC96B-7507-42D4-9AAE-A11AEE503FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBADC96B-7507-42D4-9AAE-A11AEE503FA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
